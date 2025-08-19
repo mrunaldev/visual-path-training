@@ -1,8 +1,9 @@
-# Day 0: Introduction to Go Programming
+# Go Programming Workshop
+## Demo Session Guide
 
-This is a sample session to demonstrate the course structure and give students a taste of Go programming.
+Welcome to the Go Programming Workshop! This guide contains all materials for the demo session.
 
-## Session Structure (1 hour)
+## 📚 Session Materials
 
 1. **Introduction (15 minutes)**
    - Course overview
