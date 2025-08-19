@@ -61,7 +61,7 @@ A simple "Quote of the Day" program that demonstrates:
 
 ---
 
-# Course Structure (7 Weeks)
+# Course Structure (7-8 Weeks)
 
 ![bg right:40%](https://go.dev/images/gophers/countdown.svg)
 
