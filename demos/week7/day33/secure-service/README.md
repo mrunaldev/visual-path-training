@@ -1,6 +1,18 @@
 # Secure Service Demo
 
-This demo implements a secure service showcasing various security patterns and best practices in Go.
+This demo implements a secure service showcasing various security patterns and### Security Features
+
+1. Authentication
+   - JWT tokens with EdDSA (Ed25519) signatures
+   - Password hashing with Argon2id
+   - Role-based access with fine-grained permissions
+   - MFA support (TOTP)
+
+2. Encryption
+   - ChaCha20-Poly1305 for symmetric encryption (better for resource-constrained devices)
+   - Ed25519 for asymmetric operations
+   - Quantum-resistant key exchange (optional)
+   - Secure key generation with hardware entropyices in Go.
 
 ## Features
 

@@ -6,17 +6,22 @@ This guide helps you set up your development environment for the Go training cou
 
 1. **Go Installation**
    ```bash
-   # Linux
-   wget https://golang.org/dl/go1.21.0.linux-amd64.tar.gz
-   sudo tar -C /usr/local -xzf go1.21.0.linux-amd64.tar.gz
+   # Linux/macOS
+   # Visit https://golang.org/dl/ for latest version
+   # As of August 2025, Go 1.24.x is recommended
+   wget https://golang.org/dl/go1.24.x.linux-amd64.tar.gz  # Replace x with latest minor version
+   sudo tar -C /usr/local -xzf go1.24.x.linux-amd64.tar.gz
    export PATH=$PATH:/usr/local/go/bin
    ```
 
 2. **VS Code Extensions**
-   - Go extension
-   - Code Runner
-   - Go Test Explorer
-   - Marp for VS Code
+   - Go (by Google) - Latest version with workspace trust
+   - Code Runner (or built-in Run functionality)
+   - Testing tools (Test Explorer UI, Go Test Explorer)
+   - Marp for VS Code (for presentations)
+   - GitLens (recommended for repository management)
+   - Docker (if using containerization)
+   - Remote Development (for devcontainer support)
 
 3. **Additional Tools**
    ```bash

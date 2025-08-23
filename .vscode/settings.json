@@ -1,0 +1,12 @@
+{
+    "markdown.marp.exportType": ["pdf", "pptx", "html"],
+    "markdown.marp.enableHtml": true,
+    "terminal.integrated.fontFamily": "'MesloLGMNerdFontMono-Regular', 'MesloLGM Nerd Font Mono', Monaco, 'Courier New', monospace",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.env.osx": {
+        "LC_ALL": "en_US.UTF-8"
+    },
+    "terminal.integrated.shellIntegration.enabled": true
+}
+    

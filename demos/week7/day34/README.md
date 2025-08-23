@@ -9,11 +9,12 @@
 - Role-based access
 
 ### Technical Stack
-- Go 1.21+
-- GORM
-- PostgreSQL
-- JWT Authentication
-- Docker
+- Go 1.24+ (as of August 2025)
+- GORM v2.0+
+- PostgreSQL 16+
+- JWT Authentication with up-to-date crypto standards
+- Docker with multi-stage builds
+- DevContainer support for VS Code
 
 ### Architecture
 ```
