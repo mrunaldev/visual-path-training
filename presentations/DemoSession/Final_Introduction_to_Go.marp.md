@@ -3,6 +3,7 @@ marp: true
 theme: gaia
 paginate: true
 backgroundColor: '#FFFFFF'
+output: pptx
 style: |
   .columns {
     display: grid;
