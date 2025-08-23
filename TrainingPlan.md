@@ -1,8 +1,8 @@
-# Go Programming - 7 Week Training Plan
+# Go Programming - 7-8 Week Training Plan
 
 ## Overview
-This comprehensive 7-week (35-day) Go training program is designed to take you from the basics to advanced Go programming concepts. Each day consists of:
-- Theory (15-20 minutes)
+This comprehensive 7-8 week (35-40 day) Go training program is designed to take you from the basics to advanced Go programming concepts. Each day consists of:
+- Conceptual Presentaion (15-20 minutes)
 - Live Coding Demo (20-25 minutes)
 - Q&A Session (15 minutes)
 
